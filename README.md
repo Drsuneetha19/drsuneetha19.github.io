@@ -1,8 +1,8 @@
-# drsuneethamekala.github.io
+# drsuneetha19.github.io
 
 Personal portfolio site for Dr. Suneetha Mekala, MD, MS — Research Data Analyst.
 
-**Live site:** https://drsuneethamekala.github.io
+**Live site:** https://drsuneetha19.github.io
 
 ## Pages
 
